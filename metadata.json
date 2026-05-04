@@ -1,0 +1,6 @@
+{
+  "name": "Railway Reservation System",
+  "description": "A comprehensive DBMS-based Railway Reservation System with normalized tables, triggers, views, and a full-stack management interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
